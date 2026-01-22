@@ -231,21 +231,41 @@ main {
 }
 
 .ingredient-controls {
+    display: grid;    grid-template-columns: 1fr;
+    gap: 10px;
+    align-items: stretch;
+}
+
+.ingredient-search {
+    width: 100%;
+    padding: 10px 15px;
+    border: 2px solid #e0e0e0;
+    border-radius: 6px;
+    font-size: 14px;
+    transition: border-color 0.3s;
+}
+
+.ingredient-search:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
+}
+
+.ingredient-controls > :not(.ingredient-search) {
     display: grid;
     grid-template-columns: 2fr 1fr 1fr auto;
     gap: 10px;
-    align-items: end;
+    align-items: center;
 }
 
 /* iPhone 11 Pro ingredient controls adjustments */
 @media (max-width: 480px) {
-    .ingredient-controls {
+    .ingredient-controls > :not(.ingredient-search) {
         grid-template-columns: 1fr;
         gap: 8px;
-        align-items: stretch;
     }
     
-    .ingredient-controls .remove-ingredient {
+    .ingredient-controls .btn-danger {
         justify-self: center;
         width: auto;
         padding: 8px 16px;
