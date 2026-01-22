@@ -1453,6 +1453,42 @@ const NUTRITION_DATA = {
         iron: 0.1,
         potassium: 80
     },
+    'orange-juice': {
+        name: 'Orange Juice (Fresh Squeezed)',
+        calories: 45,
+        totalFat: 0.2,
+        saturatedFat: 0,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 1,
+        totalCarbs: 10.4,
+        fiber: 0.2,
+        sugars: 8.4,
+        addedSugars: 0,
+        protein: 0.7,
+        vitaminD: 0,
+        calcium: 11,
+        iron: 0.2,
+        potassium: 200
+    },
+    'instant-coffee': {
+        name: 'Instant Coffee Powder',
+        calories: 94,
+        totalFat: 0.5,
+        saturatedFat: 0.2,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 76,
+        totalCarbs: 17,
+        fiber: 0,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 12,
+        vitaminD: 0,
+        calcium: 141,
+        iron: 4.4,
+        potassium: 3535
+    },
     // All types of sugar varieties
     'white-sugar': {
         name: 'White Sugar (Refined)',
@@ -2261,6 +2297,24 @@ const NUTRITION_DATA = {
         iron: 0.4,
         potassium: 49
     },
+    'blueberries-dried': {
+        name: 'Dried Blueberries',
+        calories: 317,
+        totalFat: 2.7,
+        saturatedFat: 0.2,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 3,
+        totalCarbs: 80,
+        fiber: 5.5,
+        sugars: 65,
+        addedSugars: 25,
+        protein: 2,
+        vitaminD: 0,
+        calcium: 20,
+        iron: 0.9,
+        potassium: 275
+    },
     'black-raisins': {
         name: 'Black Raisins (Kala Manuka)',
         calories: 299,
@@ -2519,6 +2573,24 @@ const NUTRITION_DATA = {
         iron: 2.9,
         potassium: 718
     },
+    'sattu': {
+        name: 'Sattu (Roasted Chickpea Flour)',
+        calories: 355,
+        totalFat: 4.5,
+        saturatedFat: 0.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 24,
+        totalCarbs: 62,
+        fiber: 15,
+        sugars: 10,
+        addedSugars: 0,
+        protein: 18,
+        vitaminD: 0,
+        calcium: 60,
+        iron: 4.5,
+        potassium: 846
+    },
 
     // Comprehensive flour varieties for healthy baking
     'whole-wheat-flour': {
@@ -2610,6 +2682,140 @@ const NUTRITION_DATA = {
         calcium: 45,
         iron: 4.9,
         potassium: 846
+    },
+    'sattu': {
+        name: 'Sattu (Roasted Chickpea Flour)',
+        calories: 355,
+        totalFat: 4.5,
+        saturatedFat: 0.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 24,
+        totalCarbs: 62,
+        fiber: 15,
+        sugars: 10,
+        addedSugars: 0,
+        protein: 18,
+        vitaminD: 0,
+        calcium: 60,
+        iron: 4.5,
+        potassium: 846
+    },
+
+    // Nut & Seed Butters
+    'peanut-butter': {
+        name: 'Peanut Butter (Natural)',
+        calories: 588,
+        totalFat: 50,
+        saturatedFat: 10,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 17,
+        totalCarbs: 20,
+        fiber: 6,
+        sugars: 9,
+        addedSugars: 0,
+        protein: 25,
+        vitaminD: 0,
+        calcium: 43,
+        iron: 1.9,
+        potassium: 649
+    },
+    'almond-butter': {
+        name: 'Almond Butter',
+        calories: 614,
+        totalFat: 56,
+        saturatedFat: 4.2,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 7,
+        totalCarbs: 18,
+        fiber: 10,
+        sugars: 4.4,
+        addedSugars: 0,
+        protein: 21,
+        vitaminD: 0,
+        calcium: 347,
+        iron: 3.9,
+        potassium: 748
+    },
+
+    // Breakfast Cereals
+    'rice-crisps': {
+        name: 'Rice Crisps (Puffed Rice)',
+        calories: 387,
+        totalFat: 1,
+        saturatedFat: 0.2,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 2,
+        totalCarbs: 87,
+        fiber: 2,
+        sugars: 0.3,
+        addedSugars: 0,
+        protein: 7,
+        vitaminD: 0,
+        calcium: 11,
+        iron: 0.8,
+        potassium: 95
+    },
+
+    // Dried Fruits
+    'dried-blueberry': {
+        name: 'Dried Blueberries',
+        calories: 317,
+        totalFat: 2.7,
+        saturatedFat: 0.2,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 3,
+        totalCarbs: 80,
+        fiber: 5.5,
+        sugars: 65,
+        addedSugars: 25,
+        protein: 2,
+        vitaminD: 0,
+        calcium: 20,
+        iron: 0.9,
+        potassium: 275
+    },
+
+    // Beverages
+    'orange-juice': {
+        name: 'Orange Juice (Fresh)',
+        calories: 45,
+        totalFat: 0.2,
+        saturatedFat: 0,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 1,
+        totalCarbs: 10.4,
+        fiber: 0.2,
+        sugars: 8.4,
+        addedSugars: 0,
+        protein: 0.7,
+        vitaminD: 0,
+        calcium: 11,
+        iron: 0.2,
+        potassium: 200
+    },
+    'instant-coffee': {
+        name: 'Instant Coffee (Powder)',
+        calories: 94,
+        totalFat: 0.5,
+        saturatedFat: 0.2,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 76,
+        totalCarbs: 17,
+        fiber: 0,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 12,
+        vitaminD: 0,
+        calcium: 141,
+        iron: 4.4,
+        potassium: 3535
     },
 
     // Basic ingredients
@@ -3108,6 +3314,38 @@ const INGREDIENT_SPECIFIC_CONVERSIONS = {
         'cup': 92,
         'tablespoon': 5.8
     },
+    'sattu': {
+        'cup': 95,
+        'tablespoon': 6
+    },
+    'peanut-butter': {
+        'cup': 250,
+        'tablespoon': 16
+    },
+    'almond-butter': {
+        'cup': 250,
+        'tablespoon': 16
+    },
+    'rice-crisps': {
+        'cup': 14,
+        'tablespoon': 3.5
+    },
+    'dried-blueberry': {
+        'cup': 140,
+        'tablespoon': 8.8
+    },
+    'orange-juice': {
+        'cup': 248,
+        'tablespoon': 15.5
+    },
+    'instant-coffee': {
+        'teaspoon': 1.8,
+        'tablespoon': 5.4
+    },
+    'active-dry-yeast': {
+        'tablespoon': 9.5,
+        'teaspoon': 3.2
+    },
     'ghee': {
         'cup': 205,
         'tablespoon': 13,
@@ -3223,6 +3461,39 @@ const INGREDIENT_SPECIFIC_CONVERSIONS = {
     'chana-dal': {
         'cup': 196,  // dry weight
         'tablespoon': 12.3
+    },
+    'almond-butter': {
+        'cup': 250,
+        'tablespoon': 16
+    },
+    'peanut-butter': {
+        'cup': 258,
+        'tablespoon': 16
+    },
+    'blueberries-dried': {
+        'cup': 140,
+        'tablespoon': 8.8
+    },
+    'sattu': {
+        'cup': 120,
+        'tablespoon': 7.5
+    },
+    'yeast-active-dry': {
+        'tablespoon': 8,
+        'teaspoon': 2.7,
+        'packet': 7  // standard 7g packet
+    },
+    'orange-juice': {
+        'cup': 248,
+        'tablespoon': 15.5
+    },
+    'instant-coffee': {
+        'tablespoon': 6,
+        'teaspoon': 2
+    },
+    'rice-crisps': {
+        'cup': 14,  // puffed, very light
+        'tablespoon': 0.9
     }
 };
 
