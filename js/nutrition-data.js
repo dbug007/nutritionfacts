@@ -2713,7 +2713,7 @@ const NUTRITION_DATA = {
         sodium: 17,
         totalCarbs: 20,
         fiber: 6,
-        sugars: 9,
+        sugars: 2.4,
         addedSugars: 0,
         protein: 25,
         vitaminD: 0,
