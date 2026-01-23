@@ -1637,7 +1637,25 @@ const NUTRITION_DATA = {
         potassium: 715
     },
     'dark-chocolate-70': {
-        name: 'Dark Chocolate 70% Cocoa',
+        name: 'Dark Chocolate 70% Cocoa (Pure)',
+        calories: 598,
+        totalFat: 43,
+        saturatedFat: 25,
+        transFat: 0,
+        cholesterol: 2,
+        sodium: 6,
+        totalCarbs: 46,
+        fiber: 11,
+        sugars: 24,
+        addedSugars: 0,
+        protein: 7.8,
+        vitaminD: 0,
+        calcium: 73,
+        iron: 11.9,
+        potassium: 715
+    },
+    'dark-chocolate-70-sweetened': {
+        name: 'Dark Chocolate 70% (Sweetened)',
         calories: 598,
         totalFat: 43,
         saturatedFat: 25,
@@ -2004,7 +2022,7 @@ const NUTRITION_DATA = {
         potassium: 1524
     },
     'dark-chocolate': {
-        name: 'Dark Chocolate (70-85%)',
+        name: 'Dark Chocolate (70-85% Pure)',
         calories: 598,
         totalFat: 43,
         saturatedFat: 25,
@@ -2014,7 +2032,7 @@ const NUTRITION_DATA = {
         totalCarbs: 46,
         fiber: 11,
         sugars: 24,
-        addedSugars: 23,
+        addedSugars: 0,
         protein: 7.9,
         vitaminD: 0,
         calcium: 73,
@@ -2280,7 +2298,25 @@ const NUTRITION_DATA = {
         potassium: 77
     },
     'cranberries-dried': {
-        name: 'Dried Cranberries',
+        name: 'Dried Cranberries (Unsweetened)',
+        calories: 308,
+        totalFat: 1.4,
+        saturatedFat: 0.1,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 5,
+        totalCarbs: 83,
+        fiber: 5.3,
+        sugars: 65,
+        addedSugars: 0,
+        protein: 0.1,
+        vitaminD: 0,
+        calcium: 7,
+        iron: 0.4,
+        potassium: 49
+    },
+    'cranberries-dried-sweetened': {
+        name: 'Dried Cranberries (Sweetened)',
         calories: 308,
         totalFat: 1.4,
         saturatedFat: 0.1,
@@ -2298,7 +2334,25 @@ const NUTRITION_DATA = {
         potassium: 49
     },
     'blueberries-dried': {
-        name: 'Dried Blueberries',
+        name: 'Dried Blueberries (Unsweetened)',
+        calories: 317,
+        totalFat: 2.7,
+        saturatedFat: 0.2,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 3,
+        totalCarbs: 80,
+        fiber: 5.5,
+        sugars: 65,
+        addedSugars: 0,
+        protein: 2,
+        vitaminD: 0,
+        calcium: 20,
+        iron: 0.9,
+        potassium: 275
+    },
+    'blueberries-dried-sweetened': {
+        name: 'Dried Blueberries (Sweetened)',
         calories: 317,
         totalFat: 2.7,
         saturatedFat: 0.2,
@@ -2762,7 +2816,25 @@ const NUTRITION_DATA = {
 
     // Dried Fruits
     'dried-blueberry': {
-        name: 'Dried Blueberries',
+        name: 'Dried Blueberries (Unsweetened)',
+        calories: 317,
+        totalFat: 2.7,
+        saturatedFat: 0.2,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 3,
+        totalCarbs: 80,
+        fiber: 5.5,
+        sugars: 65,
+        addedSugars: 0,
+        protein: 2,
+        vitaminD: 0,
+        calcium: 20,
+        iron: 0.9,
+        potassium: 275
+    },
+    'dried-blueberry-sweetened': {
+        name: 'Dried Blueberries (Sweetened)',
         calories: 317,
         totalFat: 2.7,
         saturatedFat: 0.2,
