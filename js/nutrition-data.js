@@ -55,6 +55,24 @@ const NUTRITION_DATA = {
         iron: 4.1,
         potassium: 350
     },
+    'jowar-flour': {
+        name: 'Jowar Flour (Sorghum Flour)',
+        calories: 329,
+        totalFat: 3.1,
+        saturatedFat: 0.9,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 6,
+        totalCarbs: 70,
+        fiber: 6.7,
+        sugars: 2.5,
+        addedSugars: 0,
+        protein: 10.6,
+        vitaminD: 0,
+        calcium: 25,
+        iron: 4.1,
+        potassium: 350
+    },
     'amaranth-grain': {
         name: 'Amaranth Grain',
         calories: 371,
@@ -1543,6 +1561,42 @@ const NUTRITION_DATA = {
         iron: 0.1,
         potassium: 155
     },
+    'amul-curd': {
+        name: 'Amul Curd (Commercial)',
+        calories: 63,
+        totalFat: 3.3,
+        saturatedFat: 2.1,
+        transFat: 0.1,
+        cholesterol: 13,
+        sodium: 46,
+        totalCarbs: 4.7,
+        fiber: 0,
+        sugars: 4.7,
+        addedSugars: 0,
+        protein: 3.5,
+        vitaminD: 2,
+        calcium: 121,
+        iron: 0.1,
+        potassium: 155
+    },
+    'milky-mist-curd': {
+        name: 'Milky Mist Curd (Commercial)',
+        calories: 63,
+        totalFat: 3.3,
+        saturatedFat: 2.1,
+        transFat: 0.1,
+        cholesterol: 13,
+        sodium: 46,
+        totalCarbs: 4.7,
+        fiber: 0,
+        sugars: 4.7,
+        addedSugars: 0,
+        protein: 3.5,
+        vitaminD: 2,
+        calcium: 121,
+        iron: 0.1,
+        potassium: 155
+    },
     'lemon-water': {
         name: 'Lemon Water (Fresh)',
         calories: 7,
@@ -2897,6 +2951,42 @@ const NUTRITION_DATA = {
         iron: 3.2,
         potassium: 290
     },
+    'haldiram-sev': {
+        name: 'Haldiram Sev (Commercial)',
+        calories: 463,
+        totalFat: 26,
+        saturatedFat: 9,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 1350,
+        totalCarbs: 50,
+        fiber: 6,
+        sugars: 3,
+        addedSugars: 1,
+        protein: 14,
+        vitaminD: 0,
+        calcium: 38,
+        iron: 3.2,
+        potassium: 290
+    },
+    'garden-sev': {
+        name: 'Garden Sev (Commercial)',
+        calories: 463,
+        totalFat: 26,
+        saturatedFat: 9,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 1350,
+        totalCarbs: 50,
+        fiber: 6,
+        sugars: 3,
+        addedSugars: 1,
+        protein: 14,
+        vitaminD: 0,
+        calcium: 38,
+        iron: 3.2,
+        potassium: 290
+    },
     'chana-dal': {
         name: 'Chana Dal (Split Bengal Gram)',
         calories: 335,
@@ -3261,6 +3351,10 @@ const INGREDIENT_SPECIFIC_CONVERSIONS = {
     },
     'jowar-sorghum': {
         'cup': 115
+    },
+    'jowar-flour': {
+        'cup': 120,
+        'tablespoon': 7.5
     },
     'amaranth-grain': {
         'cup': 195
@@ -3727,6 +3821,14 @@ const INGREDIENT_SPECIFIC_CONVERSIONS = {
         'cup': 245,
         'tablespoon': 15.3
     },
+    'amul-curd': {
+        'cup': 245,
+        'tablespoon': 15.3
+    },
+    'milky-mist-curd': {
+        'cup': 245,
+        'tablespoon': 15.3
+    },
     'white-sugar': {
         'cup': 200,
         'tablespoon': 12.5
@@ -3855,6 +3957,14 @@ const INGREDIENT_SPECIFIC_CONVERSIONS = {
         'tablespoon': 3.1
     },
     'fine-sev': {
+        'cup': 45,   // as measured for garnish
+        'tablespoon': 2.8
+    },
+    'haldiram-sev': {
+        'cup': 45,   // as measured for garnish
+        'tablespoon': 2.8
+    },
+    'garden-sev': {
         'cup': 45,   // as measured for garnish
         'tablespoon': 2.8
     },
