@@ -904,6 +904,114 @@ const NUTRITION_DATA = {
         iron: 4.7,
         potassium: 680
     },
+    'hazelnuts-raw': {
+        name: 'Hazelnuts (Raw)',
+        calories: 628,
+        totalFat: 61,
+        saturatedFat: 4.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 0,
+        totalCarbs: 17,
+        fiber: 9.7,
+        sugars: 4.3,
+        addedSugars: 0,
+        protein: 15,
+        vitaminD: 0,
+        calcium: 114,
+        iron: 4.7,
+        potassium: 680
+    },
+    'hazelnuts-roasted': {
+        name: 'Hazelnuts (Roasted)',
+        calories: 628,
+        totalFat: 61,
+        saturatedFat: 4.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 0,
+        totalCarbs: 17,
+        fiber: 9.7,
+        sugars: 4.3,
+        addedSugars: 0,
+        protein: 15,
+        vitaminD: 0,
+        calcium: 114,
+        iron: 4.7,
+        potassium: 680
+    },
+    'hazelnuts-blanched': {
+        name: 'Hazelnuts (Blanched)',
+        calories: 628,
+        totalFat: 61,
+        saturatedFat: 4.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 0,
+        totalCarbs: 17,
+        fiber: 9.7,
+        sugars: 4.3,
+        addedSugars: 0,
+        protein: 15,
+        vitaminD: 0,
+        calcium: 114,
+        iron: 4.7,
+        potassium: 680
+    },
+    'hazelnuts-chopped': {
+        name: 'Hazelnuts (Chopped)',
+        calories: 628,
+        totalFat: 61,
+        saturatedFat: 4.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 0,
+        totalCarbs: 17,
+        fiber: 9.7,
+        sugars: 4.3,
+        addedSugars: 0,
+        protein: 15,
+        vitaminD: 0,
+        calcium: 114,
+        iron: 4.7,
+        potassium: 680
+    },
+    'hazelnut-flour': {
+        name: 'Hazelnut Flour (Meal)',
+        calories: 628,
+        totalFat: 61,
+        saturatedFat: 4.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 0,
+        totalCarbs: 17,
+        fiber: 9.7,
+        sugars: 4.3,
+        addedSugars: 0,
+        protein: 15,
+        vitaminD: 0,
+        calcium: 114,
+        iron: 4.7,
+        potassium: 680
+    },
+    'hazelnut-butter': {
+        name: 'Hazelnut Butter (Pure)',
+        calories: 628,
+        totalFat: 61,
+        saturatedFat: 4.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 0,
+        totalCarbs: 17,
+        fiber: 9.7,
+        sugars: 4.3,
+        addedSugars: 0,
+        protein: 15,
+        vitaminD: 0,
+        calcium: 114,
+        iron: 4.7,
+        potassium: 680
+    },
     'pecans': {
         name: 'Pecans',
         calories: 691,
@@ -1636,6 +1744,150 @@ const NUTRITION_DATA = {
         iron: 11.9,
         potassium: 715
     },
+    'vanhouten-cocoa-powder': {
+        name: 'Van Houten Cocoa Powder (Unsweetened)',
+        calories: 228,
+        totalFat: 14,
+        saturatedFat: 8.1,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 21,
+        totalCarbs: 58,
+        fiber: 37,
+        sugars: 1.8,
+        addedSugars: 0,
+        protein: 20,
+        vitaminD: 0,
+        calcium: 128,
+        iron: 13.9,
+        potassium: 1524
+    },
+    'vanhouten-dutch-cocoa': {
+        name: 'Van Houten Dutch-Process Cocoa',
+        calories: 228,
+        totalFat: 14,
+        saturatedFat: 8.1,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 21,
+        totalCarbs: 58,
+        fiber: 37,
+        sugars: 1.8,
+        addedSugars: 0,
+        protein: 20,
+        vitaminD: 0,
+        calcium: 128,
+        iron: 13.9,
+        potassium: 1524
+    },
+    'vanhouten-drinking-chocolate': {
+        name: 'Van Houten Drinking Chocolate (Sweetened)',
+        calories: 400,
+        totalFat: 8,
+        saturatedFat: 5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 120,
+        totalCarbs: 70,
+        fiber: 8,
+        sugars: 55,
+        addedSugars: 50,
+        protein: 8,
+        vitaminD: 0,
+        calcium: 120,
+        iron: 7,
+        potassium: 900
+    },
+    'vanhouten-milk-chocolate': {
+        name: 'Van Houten Milk Chocolate',
+        calories: 535,
+        totalFat: 30,
+        saturatedFat: 18,
+        transFat: 0,
+        cholesterol: 21,
+        sodium: 79,
+        totalCarbs: 59,
+        fiber: 2,
+        sugars: 52,
+        addedSugars: 50,
+        protein: 8,
+        vitaminD: 0,
+        calcium: 251,
+        iron: 1.0,
+        potassium: 350
+    },
+    'amul-dark-chocolate-55': {
+        name: 'Amul Dark Chocolate 55% (Commercial)',
+        calories: 570,
+        totalFat: 38,
+        saturatedFat: 23,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 8,
+        totalCarbs: 50,
+        fiber: 8,
+        sugars: 45,
+        addedSugars: 40,
+        protein: 6,
+        vitaminD: 0,
+        calcium: 70,
+        iron: 8,
+        potassium: 600
+    },
+    'amul-dark-chocolate-70': {
+        name: 'Amul Dark Chocolate 70% (Commercial)',
+        calories: 598,
+        totalFat: 43,
+        saturatedFat: 25,
+        transFat: 0,
+        cholesterol: 2,
+        sodium: 6,
+        totalCarbs: 46,
+        fiber: 11,
+        sugars: 24,
+        addedSugars: 20,
+        protein: 7.8,
+        vitaminD: 0,
+        calcium: 73,
+        iron: 11.9,
+        potassium: 715
+    },
+    'amul-dark-chocolate-85': {
+        name: 'Amul Dark Chocolate 85% (Commercial)',
+        calories: 600,
+        totalFat: 46,
+        saturatedFat: 28,
+        transFat: 0,
+        cholesterol: 2,
+        sodium: 6,
+        totalCarbs: 30,
+        fiber: 14,
+        sugars: 14,
+        addedSugars: 10,
+        protein: 7,
+        vitaminD: 0,
+        calcium: 80,
+        iron: 12,
+        potassium: 750
+    },
+    'amul-dark-chocolate-90': {
+        name: 'Amul Dark Chocolate 90% (Commercial)',
+        calories: 610,
+        totalFat: 50,
+        saturatedFat: 30,
+        transFat: 0,
+        cholesterol: 2,
+        sodium: 5,
+        totalCarbs: 23,
+        fiber: 15,
+        sugars: 7,
+        addedSugars: 2,
+        protein: 8,
+        vitaminD: 0,
+        calcium: 90,
+        iron: 13,
+        potassium: 800
+    },
     'dark-chocolate-70': {
         name: 'Dark Chocolate 70% Cocoa (Pure)',
         calories: 598,
@@ -2058,6 +2310,42 @@ const NUTRITION_DATA = {
         calcium: 330,
         iron: 25,
         potassium: 1950
+    },
+    'chili-flakes': {
+        name: 'Chilli Flakes (Crushed Red Pepper)',
+        calories: 282,
+        totalFat: 14,
+        saturatedFat: 2.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 91,
+        totalCarbs: 50,
+        fiber: 28,
+        sugars: 8.8,
+        addedSugars: 0,
+        protein: 12,
+        vitaminD: 0,
+        calcium: 330,
+        iron: 25,
+        potassium: 1950
+    },
+    'oregano-dried': {
+        name: 'Oregano (Dried)',
+        calories: 265,
+        totalFat: 4.3,
+        saturatedFat: 1.6,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 25,
+        totalCarbs: 69,
+        fiber: 42.5,
+        sugars: 4.1,
+        addedSugars: 0,
+        protein: 9,
+        vitaminD: 0,
+        calcium: 1597,
+        iron: 36.8,
+        potassium: 1522
     },
     'coriander-seeds': {
         name: 'Coriander Seeds',
@@ -3459,6 +3747,38 @@ const INGREDIENT_SPECIFIC_CONVERSIONS = {
         'cup': 150,  // chopped
         'piece': 5   // small square
     },
+    'vanhouten-cocoa-powder': {
+        'tablespoon': 5,
+        'teaspoon': 2
+    },
+    'vanhouten-dutch-cocoa': {
+        'tablespoon': 5,
+        'teaspoon': 2
+    },
+    'vanhouten-drinking-chocolate': {
+        'tablespoon': 10,
+        'teaspoon': 3.3
+    },
+    'vanhouten-milk-chocolate': {
+        'cup': 150,  // chopped
+        'piece': 5   // small square
+    },
+    'amul-dark-chocolate-55': {
+        'cup': 150,  // chopped
+        'piece': 5   // small square
+    },
+    'amul-dark-chocolate-70': {
+        'cup': 150,  // chopped
+        'piece': 5   // small square
+    },
+    'amul-dark-chocolate-85': {
+        'cup': 150,  // chopped
+        'piece': 5   // small square
+    },
+    'amul-dark-chocolate-90': {
+        'cup': 150,  // chopped
+        'piece': 5   // small square
+    },
     'dark-chocolate-70': {
         'cup': 150,  // chopped
         'piece': 5   // small square
@@ -3502,6 +3822,14 @@ const INGREDIENT_SPECIFIC_CONVERSIONS = {
         'tablespoon': 5.4,
         'teaspoon': 1.8
     },
+    'oregano-dried': {
+        'tablespoon': 3,
+        'teaspoon': 1
+    },
+    'chili-flakes': {
+        'tablespoon': 5.3,
+        'teaspoon': 1.8
+    },
     'garlic': {
         'clove': 3,  // minced
         'tablespoon': 8.5
@@ -3540,6 +3868,30 @@ const INGREDIENT_SPECIFIC_CONVERSIONS = {
     },
     'peanut-butter': {
         'cup': 258,
+        'tablespoon': 16
+    },
+    'hazelnuts-raw': {
+        'cup': 135,
+        'tablespoon': 8.5
+    },
+    'hazelnuts-roasted': {
+        'cup': 135,
+        'tablespoon': 8.5
+    },
+    'hazelnuts-blanched': {
+        'cup': 135,
+        'tablespoon': 8.5
+    },
+    'hazelnuts-chopped': {
+        'cup': 135,
+        'tablespoon': 8.5
+    },
+    'hazelnut-flour': {
+        'cup': 96,
+        'tablespoon': 6
+    },
+    'hazelnut-butter': {
+        'cup': 250,
         'tablespoon': 16
     },
     'blueberries-dried': {
