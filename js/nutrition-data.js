@@ -201,42 +201,6 @@ const NUTRITION_DATA = {
         iron: 1.4,
         potassium: 350
     },
-    'chia-seeds': {
-        name: 'Chia Seeds',
-        calories: 486,
-        totalFat: 31,
-        saturatedFat: 3.3,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 16,
-        totalCarbs: 42,
-        fiber: 34,
-        sugars: 0,
-        addedSugars: 0,
-        protein: 17,
-        vitaminD: 0,
-        calcium: 631,
-        iron: 7.7,
-        potassium: 407
-    },
-    'flax-seeds': {
-        name: 'Flax Seeds',
-        calories: 534,
-        totalFat: 42,
-        saturatedFat: 3.7,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 30,
-        totalCarbs: 29,
-        fiber: 27,
-        sugars: 1.6,
-        addedSugars: 0,
-        protein: 18,
-        vitaminD: 0,
-        calcium: 255,
-        iron: 5.7,
-        potassium: 813
-    },
     // Comprehensive World Seeds Collection
     // Popular Superfood Seeds
     'chia-seeds': {
@@ -774,42 +738,6 @@ const NUTRITION_DATA = {
         calcium: 442,
         iron: 6.0,
         potassium: 370
-    },
-    'fenugreek-seeds': {
-        name: 'Fenugreek Seeds',
-        calories: 323,
-        totalFat: 6.4,
-        saturatedFat: 1.5,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 67,
-        totalCarbs: 58,
-        fiber: 25,
-        sugars: 0,
-        addedSugars: 0,
-        protein: 23,
-        vitaminD: 0,
-        calcium: 176,
-        iron: 34,
-        potassium: 770
-    },
-    'mustard-seeds': {
-        name: 'Mustard Seeds',
-        calories: 508,
-        totalFat: 36,
-        saturatedFat: 1.9,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 13,
-        totalCarbs: 28,
-        fiber: 12,
-        sugars: 7.0,
-        addedSugars: 0,
-        protein: 26,
-        vitaminD: 0,
-        calcium: 521,
-        iron: 9.2,
-        potassium: 738
     },
 
     // Comprehensive World Nuts Collection
@@ -1471,24 +1399,6 @@ const NUTRITION_DATA = {
         potassium: 1050
     },
     // Dairy and fats for healthy snacks
-    'ghee': {
-        name: 'Ghee (Clarified Butter)',
-        calories: 900,
-        totalFat: 100,
-        saturatedFat: 62,
-        transFat: 3,
-        cholesterol: 256,
-        sodium: 0,
-        totalCarbs: 0,
-        fiber: 0,
-        sugars: 0,
-        addedSugars: 0,
-        protein: 0,
-        vitaminD: 15,
-        calcium: 4,
-        iron: 0,
-        potassium: 5
-    },
     'amul-milk': {
         name: 'Amul Whole Milk',
         calories: 68,
@@ -1614,42 +1524,6 @@ const NUTRITION_DATA = {
         calcium: 6,
         iron: 0.1,
         potassium: 80
-    },
-    'orange-juice': {
-        name: 'Orange Juice (Fresh Squeezed)',
-        calories: 45,
-        totalFat: 0.2,
-        saturatedFat: 0,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 1,
-        totalCarbs: 10.4,
-        fiber: 0.2,
-        sugars: 8.4,
-        addedSugars: 0,
-        protein: 0.7,
-        vitaminD: 0,
-        calcium: 11,
-        iron: 0.2,
-        potassium: 200
-    },
-    'instant-coffee': {
-        name: 'Instant Coffee Powder',
-        calories: 94,
-        totalFat: 0.5,
-        saturatedFat: 0.2,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 76,
-        totalCarbs: 17,
-        fiber: 0,
-        sugars: 0,
-        addedSugars: 0,
-        protein: 12,
-        vitaminD: 0,
-        calcium: 141,
-        iron: 4.4,
-        potassium: 3535
     },
     // All types of sugar varieties
     'white-sugar': {
@@ -1978,24 +1852,6 @@ const NUTRITION_DATA = {
         iron: 11.9,
         potassium: 715
     },
-    'cocoa-powder': {
-        name: 'Unsweetened Cocoa Powder',
-        calories: 228,
-        totalFat: 14,
-        saturatedFat: 8.1,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 21,
-        totalCarbs: 58,
-        fiber: 37,
-        sugars: 1.8,
-        addedSugars: 0,
-        protein: 20,
-        vitaminD: 0,
-        calcium: 128,
-        iron: 13.9,
-        potassium: 1524
-    },
     'white-chocolate': {
         name: 'White Chocolate',
         calories: 539,
@@ -2015,24 +1871,6 @@ const NUTRITION_DATA = {
         potassium: 286
     },
     // Cake and baking ingredients
-    'vanilla-extract': {
-        name: 'Pure Vanilla Extract',
-        calories: 288,
-        totalFat: 0.1,
-        saturatedFat: 0,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 9,
-        totalCarbs: 13,
-        fiber: 0,
-        sugars: 13,
-        addedSugars: 0,
-        protein: 0.1,
-        vitaminD: 0,
-        calcium: 11,
-        iron: 0.1,
-        potassium: 148
-    },
     'baking-powder': {
         name: 'Baking Powder',
         calories: 53,
@@ -2050,24 +1888,6 @@ const NUTRITION_DATA = {
         calcium: 7300,
         iron: 0.4,
         potassium: 170
-    },
-    'baking-soda': {
-        name: 'Baking Soda',
-        calories: 0,
-        totalFat: 0,
-        saturatedFat: 0,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 27360,
-        totalCarbs: 0,
-        fiber: 0,
-        sugars: 0,
-        addedSugars: 0,
-        protein: 0,
-        vitaminD: 0,
-        calcium: 0,
-        iron: 0,
-        potassium: 0
     },
     'eggs': {
         name: 'Whole Eggs',
@@ -2509,24 +2329,6 @@ const NUTRITION_DATA = {
         iron: 39,
         potassium: 97
     },
-    'curry-leaves': {
-        name: 'Curry Leaves (dried)',
-        calories: 108,
-        totalFat: 1.0,
-        saturatedFat: 0.3,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 16,
-        totalCarbs: 19,
-        fiber: 6.4,
-        sugars: 0,
-        addedSugars: 0,
-        protein: 6.1,
-        vitaminD: 0,
-        calcium: 830,
-        iron: 3.1,
-        potassium: 290
-    },
 
     // Legumes for Hummus & Protein
     'chickpeas': {
@@ -2748,24 +2550,6 @@ const NUTRITION_DATA = {
         calcium: 183,
         iron: 41.4,
         potassium: 2525
-    },
-    'salt': {
-        name: 'Table Salt',
-        calories: 0,
-        totalFat: 0,
-        saturatedFat: 0,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 38758,
-        totalCarbs: 0,
-        fiber: 0,
-        sugars: 0,
-        addedSugars: 0,
-        protein: 0,
-        vitaminD: 0,
-        calcium: 24,
-        iron: 0.3,
-        potassium: 8
     },
     'cinnamon-powder': {
         name: 'Cinnamon Powder (Dalchini)',
@@ -3004,24 +2788,6 @@ const NUTRITION_DATA = {
         calcium: 45,
         iron: 2.9,
         potassium: 718
-    },
-    'sattu': {
-        name: 'Sattu (Roasted Chickpea Flour)',
-        calories: 355,
-        totalFat: 4.5,
-        saturatedFat: 0.5,
-        transFat: 0,
-        cholesterol: 0,
-        sodium: 24,
-        totalCarbs: 62,
-        fiber: 15,
-        sugars: 10,
-        addedSugars: 0,
-        protein: 18,
-        vitaminD: 0,
-        calcium: 60,
-        iron: 4.5,
-        potassium: 846
     },
 
     // Comprehensive flour varieties for healthy baking

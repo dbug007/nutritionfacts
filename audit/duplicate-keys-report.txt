@@ -1,0 +1,546 @@
+=== chia-seeds (line 204) ===
+    'chia-seeds': {
+        name: 'Chia Seeds',
+        calories: 486,
+        totalFat: 31,
+        saturatedFat: 3.3,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 16,
+        totalCarbs: 42,
+        fiber: 34,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 17,
+        vitaminD: 0,
+        calcium: 631,
+        iron: 7.7,
+        potassium: 407
+    },
+
+
+=== flax-seeds (line 222) ===
+    'flax-seeds': {
+        name: 'Flax Seeds',
+        calories: 534,
+        totalFat: 42,
+        saturatedFat: 3.7,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 30,
+        totalCarbs: 29,
+        fiber: 27,
+        sugars: 1.6,
+        addedSugars: 0,
+        protein: 18,
+        vitaminD: 0,
+        calcium: 255,
+        iron: 5.7,
+        potassium: 813
+    },
+
+
+=== chia-seeds (line 242) ===
+    'chia-seeds': {
+        name: 'Chia Seeds',
+        calories: 486,
+        totalFat: 31,
+        saturatedFat: 3.3,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 16,
+        totalCarbs: 42,
+        fiber: 34,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 17,
+        vitaminD: 0,
+        calcium: 631,
+        iron: 7.7,
+        potassium: 407
+    },
+
+
+=== flax-seeds (line 260) ===
+    'flax-seeds': {
+        name: 'Flax Seeds (Linseed)',
+        calories: 534,
+        totalFat: 42,
+        saturatedFat: 3.7,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 30,
+        totalCarbs: 29,
+        fiber: 27,
+        sugars: 1.6,
+        addedSugars: 0,
+        protein: 18,
+        vitaminD: 0,
+        calcium: 255,
+        iron: 5.7,
+        potassium: 813
+    },
+
+
+=== fenugreek-seeds (line 778) ===
+    'fenugreek-seeds': {
+        name: 'Fenugreek Seeds',
+        calories: 323,
+        totalFat: 6.4,
+        saturatedFat: 1.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 67,
+        totalCarbs: 58,
+        fiber: 25,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 23,
+        vitaminD: 0,
+        calcium: 176,
+        iron: 34,
+        potassium: 770
+    },
+
+
+=== mustard-seeds (line 796) ===
+    'mustard-seeds': {
+        name: 'Mustard Seeds',
+        calories: 508,
+        totalFat: 36,
+        saturatedFat: 1.9,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 13,
+        totalCarbs: 28,
+        fiber: 12,
+        sugars: 7.0,
+        addedSugars: 0,
+        protein: 26,
+        vitaminD: 0,
+        calcium: 521,
+        iron: 9.2,
+        potassium: 738
+    },
+
+
+=== ghee (line 1474) ===
+    'ghee': {
+        name: 'Ghee (Clarified Butter)',
+        calories: 900,
+        totalFat: 100,
+        saturatedFat: 62,
+        transFat: 3,
+        cholesterol: 256,
+        sodium: 0,
+        totalCarbs: 0,
+        fiber: 0,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 0,
+        vitaminD: 15,
+        calcium: 4,
+        iron: 0,
+        potassium: 5
+    },
+
+
+=== orange-juice (line 1618) ===
+    'orange-juice': {
+        name: 'Orange Juice (Fresh Squeezed)',
+        calories: 45,
+        totalFat: 0.2,
+        saturatedFat: 0,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 1,
+        totalCarbs: 10.4,
+        fiber: 0.2,
+        sugars: 8.4,
+        addedSugars: 0,
+        protein: 0.7,
+        vitaminD: 0,
+        calcium: 11,
+        iron: 0.2,
+        potassium: 200
+    },
+
+
+=== instant-coffee (line 1636) ===
+    'instant-coffee': {
+        name: 'Instant Coffee Powder',
+        calories: 94,
+        totalFat: 0.5,
+        saturatedFat: 0.2,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 76,
+        totalCarbs: 17,
+        fiber: 0,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 12,
+        vitaminD: 0,
+        calcium: 141,
+        iron: 4.4,
+        potassium: 3535
+    },
+
+
+=== cocoa-powder (line 1981) ===
+    'cocoa-powder': {
+        name: 'Unsweetened Cocoa Powder',
+        calories: 228,
+        totalFat: 14,
+        saturatedFat: 8.1,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 21,
+        totalCarbs: 58,
+        fiber: 37,
+        sugars: 1.8,
+        addedSugars: 0,
+        protein: 20,
+        vitaminD: 0,
+        calcium: 128,
+        iron: 13.9,
+        potassium: 1524
+    },
+
+
+=== vanilla-extract (line 2018) ===
+    'vanilla-extract': {
+        name: 'Pure Vanilla Extract',
+        calories: 288,
+        totalFat: 0.1,
+        saturatedFat: 0,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 9,
+        totalCarbs: 13,
+        fiber: 0,
+        sugars: 13,
+        addedSugars: 0,
+        protein: 0.1,
+        vitaminD: 0,
+        calcium: 11,
+        iron: 0.1,
+        potassium: 148
+    },
+
+
+=== baking-soda (line 2054) ===
+    'baking-soda': {
+        name: 'Baking Soda',
+        calories: 0,
+        totalFat: 0,
+        saturatedFat: 0,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 27360,
+        totalCarbs: 0,
+        fiber: 0,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 0,
+        vitaminD: 0,
+        calcium: 0,
+        iron: 0,
+        potassium: 0
+    },
+
+
+=== ghee (line 2238) ===
+    'ghee': {
+        name: 'Ghee (Clarified Butter)',
+        calories: 876,
+        totalFat: 100,
+        saturatedFat: 62,
+        transFat: 4.0,
+        cholesterol: 256,
+        sodium: 0,
+        totalCarbs: 0,
+        fiber: 0,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 0,
+        vitaminD: 1.5,
+        calcium: 4,
+        iron: 0,
+        potassium: 5
+    },
+
+
+=== vanilla-extract (line 2294) ===
+    'vanilla-extract': {
+        name: 'Vanilla Extract',
+        calories: 288,
+        totalFat: 0.1,
+        saturatedFat: 0,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 9,
+        totalCarbs: 13,
+        fiber: 0,
+        sugars: 13,
+        addedSugars: 0,
+        protein: 0.1,
+        vitaminD: 0,
+        calcium: 11,
+        iron: 0.1,
+        potassium: 148
+    },
+
+
+=== cocoa-powder (line 2312) ===
+    'cocoa-powder': {
+        name: 'Cocoa Powder (unsweetened)',
+        calories: 228,
+        totalFat: 14,
+        saturatedFat: 8.1,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 21,
+        totalCarbs: 58,
+        fiber: 37,
+        sugars: 1.8,
+        addedSugars: 0,
+        protein: 20,
+        vitaminD: 0,
+        calcium: 128,
+        iron: 14,
+        potassium: 1524
+    },
+
+
+=== fenugreek-seeds (line 2458) ===
+    'fenugreek-seeds': {
+        name: 'Fenugreek Seeds',
+        calories: 323,
+        totalFat: 6.4,
+        saturatedFat: 1.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 67,
+        totalCarbs: 58,
+        fiber: 25,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 23,
+        vitaminD: 0,
+        calcium: 176,
+        iron: 34,
+        potassium: 770
+    },
+
+
+=== mustard-seeds (line 2476) ===
+    'mustard-seeds': {
+        name: 'Mustard Seeds',
+        calories: 508,
+        totalFat: 36,
+        saturatedFat: 1.9,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 13,
+        totalCarbs: 28,
+        fiber: 12,
+        sugars: 7.0,
+        addedSugars: 0,
+        protein: 26,
+        vitaminD: 0,
+        calcium: 521,
+        iron: 9.2,
+        potassium: 738
+    },
+
+
+=== curry-leaves (line 2512) ===
+    'curry-leaves': {
+        name: 'Curry Leaves (dried)',
+        calories: 108,
+        totalFat: 1.0,
+        saturatedFat: 0.3,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 16,
+        totalCarbs: 19,
+        fiber: 6.4,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 6.1,
+        vitaminD: 0,
+        calcium: 830,
+        iron: 3.1,
+        potassium: 290
+    },
+
+
+=== salt (line 2752) ===
+    'salt': {
+        name: 'Table Salt',
+        calories: 0,
+        totalFat: 0,
+        saturatedFat: 0,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 38758,
+        totalCarbs: 0,
+        fiber: 0,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 0,
+        vitaminD: 0,
+        calcium: 24,
+        iron: 0.3,
+        potassium: 8
+    },
+
+
+=== curry-leaves (line 2898) ===
+    'curry-leaves': {
+        name: 'Fresh Curry Leaves (Kadi Patta)',
+        calories: 108,
+        totalFat: 1,
+        saturatedFat: 0.1,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 4,
+        totalCarbs: 18.7,
+        fiber: 6.4,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 6.1,
+        vitaminD: 0,
+        calcium: 830,
+        iron: 3.1,
+        potassium: 290
+    },
+
+
+=== sattu (line 3008) ===
+    'sattu': {
+        name: 'Sattu (Roasted Chickpea Flour)',
+        calories: 355,
+        totalFat: 4.5,
+        saturatedFat: 0.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 24,
+        totalCarbs: 62,
+        fiber: 15,
+        sugars: 10,
+        addedSugars: 0,
+        protein: 18,
+        vitaminD: 0,
+        calcium: 60,
+        iron: 4.5,
+        potassium: 846
+    },
+
+
+=== sattu (line 3118) ===
+    'sattu': {
+        name: 'Sattu (Roasted Chickpea Flour)',
+        calories: 355,
+        totalFat: 4.5,
+        saturatedFat: 0.5,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 24,
+        totalCarbs: 62,
+        fiber: 15,
+        sugars: 10,
+        addedSugars: 0,
+        protein: 18,
+        vitaminD: 0,
+        calcium: 60,
+        iron: 4.5,
+        potassium: 846
+    },
+
+
+=== orange-juice (line 3234) ===
+    'orange-juice': {
+        name: 'Orange Juice (Fresh)',
+        calories: 45,
+        totalFat: 0.2,
+        saturatedFat: 0,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 1,
+        totalCarbs: 10.4,
+        fiber: 0.2,
+        sugars: 8.4,
+        addedSugars: 0,
+        protein: 0.7,
+        vitaminD: 0,
+        calcium: 11,
+        iron: 0.2,
+        potassium: 200
+    },
+
+
+=== instant-coffee (line 3252) ===
+    'instant-coffee': {
+        name: 'Instant Coffee (Powder)',
+        calories: 94,
+        totalFat: 0.5,
+        saturatedFat: 0.2,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 76,
+        totalCarbs: 17,
+        fiber: 0,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 12,
+        vitaminD: 0,
+        calcium: 141,
+        iron: 4.4,
+        potassium: 3535
+    },
+
+
+=== salt (line 3272) ===
+    'salt': {
+        name: 'Salt',
+        calories: 0,
+        totalFat: 0,
+        saturatedFat: 0,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 38758,
+        totalCarbs: 0,
+        fiber: 0,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 0,
+        vitaminD: 0,
+        calcium: 24,
+        iron: 0.3,
+        potassium: 8
+    },
+
+
+=== baking-soda (line 3290) ===
+    'baking-soda': {
+        name: 'Baking Soda',
+        calories: 0,
+        totalFat: 0,
+        saturatedFat: 0,
+        transFat: 0,
+        cholesterol: 0,
+        sodium: 27360,
+        totalCarbs: 0,
+        fiber: 0,
+        sugars: 0,
+        addedSugars: 0,
+        protein: 0,
+        vitaminD: 0,
+        calcium: 0,
+        iron: 0,
+        potassium: 0
+    },
+
+
